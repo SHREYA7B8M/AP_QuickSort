@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\bin\Debug\AP_QuickSort.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\bin\Debug\AP_QuickSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\bin\Debug\AP_QuickSort.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\obj\Debug\AP_QuickSort.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\obj\Debug\AP_QuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\obj\Debug\AP_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\obj\Debug\AP_QuickSort.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_QuickSort\AP_QuickSort\obj\Debug\AP_QuickSort.pdb
